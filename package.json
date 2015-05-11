@@ -1,8 +1,12 @@
 {
   "name": "ontrigger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "light observer/eventemitter with only on and trigger methods",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xgbuils/ontrigger.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

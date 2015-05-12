@@ -1,6 +1,6 @@
 {
   "name": "ontrigger",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "light observer/eventemitter with only on and trigger methods",
   "main": "index.js",
   "repository": {

@@ -2,6 +2,8 @@
 
 light observer/eventemitter with only on and trigger methods
 
+![Travis CI](https://travis-ci.org/xgbuils/ontrigger.svg?branch=master)
+
 ## Why? 
 There are a lot of cases that only is used trigger and on methods of observer. This module only supply these methods.
 

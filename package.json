@@ -28,5 +28,8 @@
     "gulp": "^3.8.11",
     "gulp-mocha": "^2.0.1",
     "should": "^6.0.1"
+  },
+  "dependencies": {
+    "sinon": "^1.16.1"
   }
 }

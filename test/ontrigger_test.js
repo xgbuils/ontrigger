@@ -70,10 +70,10 @@ function testObserverClass (ObserverClass) {
             observer = new ObserverClass()
             callback = sinon.spy()
         })
-        it ('never is triggered', function () {
+        it ('also is triggered', function () {
             observer.on('', callback)
             observer.trigger('')
-            should(callback.called).be.eql(false)
+            should(callback.called).be.eql(true)
         })
     })
 
